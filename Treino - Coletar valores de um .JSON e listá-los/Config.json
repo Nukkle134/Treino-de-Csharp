@@ -1,0 +1,29 @@
+﻿{
+  "Blips": [
+    {
+      "Isadora": [
+      {
+        "Coords": [1, 6, 2],
+        "Cor": "Azul",
+        "Type": "Circle-Dot"
+      }
+    ]},
+    {
+      "Mariana": [
+      {
+        "Coords": [1, 6, 2],
+        "Cor": "Anil",
+        "Type": "Quad-Dot"
+      }
+    ]},
+    {
+      "Maria--": [
+      {
+        "Coords": [1, 6, 2],
+        "Cor": "Rosa",
+        "Type": "Quad-Dot"
+      }
+    ]}
+  ]
+
+}
